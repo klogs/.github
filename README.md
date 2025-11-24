@@ -1,6 +1,6 @@
 
 
-![Craftgate banner](https://github.com/klogs/.github/blob/master/header.png?raw=true)
+![Craftgate banner](https://github.com/klogs/.github/blob/main/blob/header.png?raw=true)
 
 # 🌐 **klogs --- Modern Payments & Fraud Intelligence Platform**
 

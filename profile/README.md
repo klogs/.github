@@ -2,7 +2,7 @@
 
 ![Craftgate banner](https://github.com/klogs/.github/blob/main/blob/header.png?raw=true)
 
-# 🌐 **klogs --- Modern Payments & Fraud Intelligence Platform**
+# **klogs --- Modern Payments & Fraud Intelligence Platform**
 
 Welcome to **klogs**, a next-generation ecosystem offering **Payment
 Gateway**, **Payment Orchestration**, **Fraud Intelligence**, **BIN/IIN
@@ -12,9 +12,9 @@ merchants, fintechs, and SaaS platforms.
 
 ------------------------------------------------------------------------
 
-## 🚀 **Core Products**
+## **Core Products**
 
-### 💳 **Payment Gateway**
+### **Payment Gateway**
 
 Our developer-first Payment Gateway simplifies how businesses accept
 online payments.
@@ -28,7 +28,7 @@ online payments.
 
 ------------------------------------------------------------------------
 
-### 🔄 **Payment Orchestration**
+### **Payment Orchestration**
 
 A smart orchestration engine designed to improve success rates and
 optimize transaction costs.
@@ -41,7 +41,7 @@ optimize transaction costs.
 
 ------------------------------------------------------------------------
 
-### 🛡️ **Fraud Detection & Risk Engine**
+### **Fraud Detection & Risk Engine**
 
 A real-time, ML-enhanced risk scoring system that protects your business
 from fraud while minimizing friction.
@@ -55,7 +55,7 @@ from fraud while minimizing friction.
 
 ------------------------------------------------------------------------
 
-### 🔢 **BIN / IIN Service**
+### **BIN / IIN Service**
 
 A powerful BIN/IIN lookup service for banks, issuers, and payment
 companies.
@@ -69,7 +69,7 @@ companies.
 
 ------------------------------------------------------------------------
 
-### 💱 **Exchange --- Instant Currency Converter**
+### **Exchange --- Instant Currency Converter**
 
 A high-accuracy, real-time currency conversion API designed for payment
 flows.
@@ -82,7 +82,7 @@ flows.
 
 ------------------------------------------------------------------------
 
-### 🏢 **B2B Online Payment Infrastructure**
+### **B2B Online Payment Infrastructure**
 
 Enterprise-grade B2B payment solutions built for companies needing
 secure, trackable, and automated payment capabilities.
@@ -96,7 +96,7 @@ secure, trackable, and automated payment capabilities.
 
 ------------------------------------------------------------------------
 
-## 🧠 **Why klogs?**
+## **Why klogs?**
 
 -   **Secure by design** --- End-to-end hardened infrastructure
 -   **Developer-first** --- Modern APIs, clean documentation
@@ -106,7 +106,7 @@ secure, trackable, and automated payment capabilities.
 
 ------------------------------------------------------------------------
 
-## 🛠️ **Tech Stack & Architecture**
+## **Tech Stack & Architecture**
 
 Built using modern, high-performance technologies:
 
@@ -119,7 +119,7 @@ Built using modern, high-performance technologies:
 
 ------------------------------------------------------------------------
 
-## 📚 **Inside This Organization**
+## **Inside This Organization**
 
 You will find repositories for:
 
@@ -136,14 +136,14 @@ You will find repositories for:
 
 ------------------------------------------------------------------------
 
-## 🤝 **Join the Journey**
+## **Join the Journey**
 
 We are building the future of intelligent, secure, and
 developer-friendly financial platforms.
 
-💬 **Collaborate with us**
-🔧 **Contribute to our ecosystem**
-🚀 **Help shape the next generation of FinTech**
+**Collaborate with us**
+**Contribute to our ecosystem**
+**Help shape the next generation of FinTech**
 
 
 - [klogs.io](https://klogs.io)  
